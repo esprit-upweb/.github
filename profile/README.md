@@ -1,4 +1,5 @@
 ## Hi there 👋
+💻 Useful resources for teachers and students
 
 <!--
 
